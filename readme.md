@@ -6,8 +6,6 @@ Este proyecto as a modo de practica de los conceptos basicos aprendidos sobre es
  4- Crear una web con un reloj que muestre la siguiente información:
 
 
-
-
 ### Herramientas Utilizadas
 
 [Bootstrap](https://getbootstrap.com/)
@@ -15,6 +13,7 @@ JavaScrip - ES6
 
 ### Repo del Proyecto
 
+[link repo](https://github.com/leorecalde/tp5-exc4domYbom.git)
 
 
 ### Autor
